@@ -39,3 +39,4 @@ city = "New York"
 print(f"My name is {name}, I am {mood} and live in {city}.")
 print(f"Today is {date} and the weather is {weather}.")
 print(f"Today I will {hobby} in {city}.")
+print("we did it!")
